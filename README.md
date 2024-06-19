@@ -13,7 +13,6 @@ I am a Systems Engineer with a deep passion for technology and innovation. Over 
 
 ### Technologies
 
-#### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
@@ -23,29 +22,24 @@ I am a Systems Engineer with a deep passion for technology and innovation. Over 
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-
-#### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
-
-#### Design
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd)
-
-#### Tools
-![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-
-#### Databases
+<br/>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-
-#### Platforms
+<br/>
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
+<br/>
+![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+<br/>
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd)
+<br/>
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean)
 
 
